@@ -1,0 +1,13 @@
+name: Core
+main: fr.nemesis07.stoners.bukkit.Core
+version: ${project.version}
+author: Nemesis07
+commands:
+  rank:
+    aliases:
+      - ranks
+  permission:
+    aliases:
+      - permissions
+      - perm
+      - perms

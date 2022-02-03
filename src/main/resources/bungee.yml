@@ -1,0 +1,6 @@
+name: Core
+main: fr.nemesis07.stoners.bungee.Core
+version: ${project.version}
+author: Nemesis07
+commands:
+  friend:

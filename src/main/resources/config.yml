@@ -1,0 +1,26 @@
+debug-mode: true
+defaultLang: fr
+
+db:
+  host: 'localhost'
+  port: '3306'
+  dbName: 'gameapi'
+  username: 'root'
+  password: 'root'
+
+menu:
+  rank:
+    main:
+      size: 27
+    created:
+      size: 54
+      detail:
+        slot: 4
+        glow: true
+        material: LEATHER_HELMET
+        color: -1 #-1 = No color
+      setName:
+        slot: 20
+        glow: false
+        material:
+        color: -1
